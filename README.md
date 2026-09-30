@@ -84,10 +84,12 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 </tr>
 </table>
 
+</br></br>
+
 </td>
 </tr>
 
-<br>
+
 
 <!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
