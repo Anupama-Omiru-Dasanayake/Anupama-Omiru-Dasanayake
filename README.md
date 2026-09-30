@@ -1,6 +1,7 @@
 <h1 align="center"> Anupama Omiru Dasanayake </h1>
 <p align="center">Computer Science Undergraduate @ University of Westminster </p>
 
+---
 <p align="center"> <a href="mailto:anupama.omiru.d@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>  <a href="https://github.com/Anupama-Omiru-Dasanayake">
@@ -8,7 +9,7 @@
 </a>  <a href="https://www.linkedin.com/in/anupama-omiru/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+---
 I'm a Computer Science undergraduate at the **University of Westminster**, passionate about software development, web technologies, problem-solving, and building real-world applications.
 
 I'm currently developing my skills across **frontend development, backend development, databases, APIs, Java, Python, and modern web technologies**.
