@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 <h2 align="center">Tech Stack</h2>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <th align="center">Programming Languages</th>
 <th align="center">Frontend</th>
