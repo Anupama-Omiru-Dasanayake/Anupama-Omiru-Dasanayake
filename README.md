@@ -75,7 +75,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 </tr>
 </table>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
