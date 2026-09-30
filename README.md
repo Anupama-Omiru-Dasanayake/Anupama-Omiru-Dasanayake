@@ -1,8 +1,10 @@
 <h1 align="center"> Anupama Omiru Dasanayake </h1>
 
-<p align="center"> anupama.omiru.d@gmail.com | <a href="https://github.com/Anupama-Omiru-Dasanayake">
+<p align="center"> <a href="mailto:anupama.omiru.d@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" height="30" alt="Email">
+</a>  <a href="https://github.com/Anupama-Omiru-Dasanayake">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a> | <a href="https://www.linkedin.com/in/anupama-omiru/">
+</a>  <a href="https://www.linkedin.com/in/anupama-omiru/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
