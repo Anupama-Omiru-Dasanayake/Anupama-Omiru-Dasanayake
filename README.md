@@ -1,9 +1,8 @@
-<p align="center">
-  <strong><font size="20">Anupama Omiru Dasanayake</font></strong>
-</p>
-<p>
+<h1 align="center">Anupama Omiru Dasanayake <br> <p>
   <sub> Computer Science Undergraduate | Aspiring Software Engineer </sub>
 </p>
+</h1>
+
 
 <p align="center">
   <a href="mailto:anupama.omiru.d@gmail.com">
