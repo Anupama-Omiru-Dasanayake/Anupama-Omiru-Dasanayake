@@ -66,6 +66,7 @@ I'm currently developing my skills across **frontend development, backend develo
 <th align="center">React</th>
 <th align="center">Java</th>
 <th align="center">Databases</th>
+<th align="center">Machine Learning</th>
 </tr>
 <tr>
 <td>Components</td>
