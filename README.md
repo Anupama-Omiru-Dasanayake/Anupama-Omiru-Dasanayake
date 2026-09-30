@@ -25,77 +25,25 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 --- 
 
+<table width="100%">
+
+<!-- ==================== TECH STACK ==================== -->
+<tr>
+<td colspan="2">
+
 <h1 align="center">Tech Stack</h1>
 
-<table width="100%" align="center">
-
-  <tr>
-    <th align="center">Programming Languages</th>
-    <th align="center">Frontend</th>
-    <th align="center">Backend & Databases</th>
-    <th align="center">Tools & Platforms</th>
-  </tr>
-
-  <tr>
-
-  <td>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-
-</td>
-
-  <td>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-</td>
-
-<td>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-</td>
-
-<td>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-</td>
-
-  </tr>
-
-</table>
-
-
-
-
-<table width="100%" align="center">
-
+<table width="100%">
+<tr>
+<th width="25%" align="center">Programming Languages</th>
+<th width="25%" align="center">Frontend</th>
+<th width="25%" align="center">Backend & Databases</th>
+<th width="25%" align="center">Tools & Platforms</th>
+</tr>
 
 <tr>
-    <th width="25%" align="center">Programming Languages</th>
-    <th width="25%" align="center">Frontend</th>
-    <th width="25%" align="center">Backend & Databases</th>
-    <th width="25%" align="center">Tools & Platforms</th>
-  </tr>
 
-  <tr>
-
-<td width="25%">
+<td width="25%" align="center">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
@@ -104,7 +52,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 </td>
 
-<td width="25%">
+<td width="25%" align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
@@ -114,7 +62,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 </td>
 
-<td width="25%">
+<td width="25%" align="center">
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
@@ -123,7 +71,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 </td>
 
-<td width="25%">
+<td width="25%" align="center">
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
@@ -133,30 +81,29 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 </td>
 
-  </tr>
+</tr>
+</table>
+
+</td>
+</tr>
 
 
-
-
-
-
-
-
-
-
-  
+<!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
+
 <td width="50%" valign="top">
 
 <h2 align="center">What I Like Building</h2>
 
-- Web Applications
-- API-based Applications
-- Database Applications
-- Intelligent Applications
-- Data-driven Applications
-- Full-Stack Systems
-- Developer Tools
+<ul>
+<li>Web Applications</li>
+<li>API-based Applications</li>
+<li>Database Applications</li>
+<li>Intelligent Applications</li>
+<li>Data-driven Applications</li>
+<li>Full-Stack Systems</li>
+<li>Developer Tools</li>
+</ul>
 
 </td>
 
@@ -165,31 +112,32 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 <h2 align="center">Contribution Streak</h2>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
-    width="100%"
-  />
+<img
+src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
+width="100%"
+/>
 </p>
 
 </td>
+
 </tr>
 
-  
+
+<!-- ==================== CURRENTLY LEARNING ==================== -->
 <tr>
 <td colspan="2">
 
 <h2 align="center">Currently Learning</h2>
 
-<table width="100%" align="center">
+<table width="100%">
 
-  
 <tr>
-<th align="center">React</th>
-<th align="center">Java</th>
-<th align="center">Databases</th>
-<th align="center">Machine Learning</th>
+<th width="25%" align="center">React</th>
+<th width="25%" align="center">Java</th>
+<th width="25%" align="center">Databases</th>
+<th width="25%" align="center">Machine Learning</th>
 </tr>
-  
+
 <tr>
 <td>Components</td>
 <td>Object-Oriented Programming</td>
@@ -264,7 +212,6 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 </td>
 </tr>
-
 
 </table>
 
