@@ -74,25 +74,36 @@ I'm currently developing my skills across **frontend development, backend develo
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## What I Like Building
 
+- Web Applications
+- API-based Applications
+- Database Applications
+- Intelligent Applications
+- Data-driven Applications
+- Full-Stack Systems
+- Developer Tools
 
- - Web Applications
- - API-based Applications
- - Database Applications
- - Intelligent Applications
- - Data-driven Applications
- - Full-Stack Systems
- - Developer Tools
+</td>
 
+<td width="50%" valign="top">
 
 ## Contribution Streak
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
+    width="100%"
   />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,15 +122,3 @@ I'm currently developing my skills across **frontend development, backend develo
 </p>
 
 ---
-
-## My Development Philosophy
-
-I believe the best way to learn software development is by building real projects, solving problems, understanding mistakes, and continuously improving.
-
-<p align="center">
-
-### Always Learning. Always Building.
-
-Feel free to explore my repositories and follow my development journey.
-
-</p>
