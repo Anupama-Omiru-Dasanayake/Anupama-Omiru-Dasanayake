@@ -56,29 +56,89 @@ I'm currently developing my skills across **frontend development, backend develo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## Currently Learning
-
-| **React** | **Java** | **Databases** |
-|:---------:|:------:|:----------:|
-| Components | Object-Oriented Programming | SQL |
-| Props | Classes & Objects | Database Design |
-| State | Inheritance | MySQL |
-| Hooks | Polymorphism | MongoDB |
-| API Integration | Encapsulation | NoSQL |
-| Component Architecture | Abstraction | |
-| Routing | Collections | |
-| Advanced React Patterns | Data Structures | |
-| | Algorithms | |
-| | File I/O | |
-
----
-
 <table>
-<tr>
-<td width="50%" valign="top">
+  <!-- Currently Learning -->
+  <tr>
+    <td colspan="3">
 
-## What I Like Building
+<h2 align="center">Currently Learning</h2>
+
+<table width="100%">
+<tr>
+<th align="center">React</th>
+<th align="center">Java</th>
+<th align="center">Databases</th>
+</tr>
+
+<tr>
+<td>Components</td>
+<td>Object-Oriented Programming</td>
+<td>SQL</td>
+</tr>
+
+<tr>
+<td>Props</td>
+<td>Classes & Objects</td>
+<td>Database Design</td>
+</tr>
+
+<tr>
+<td>State</td>
+<td>Inheritance</td>
+<td>MySQL</td>
+</tr>
+
+<tr>
+<td>Hooks</td>
+<td>Polymorphism</td>
+<td>MongoDB</td>
+</tr>
+
+<tr>
+<td>API Integration</td>
+<td>Encapsulation</td>
+<td>NoSQL</td>
+</tr>
+
+<tr>
+<td>Component Architecture</td>
+<td>Abstraction</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Routing</td>
+<td>Collections</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Advanced React Patterns</td>
+<td>Data Structures</td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Algorithms</td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>File I/O</td>
+<td></td>
+</tr>
+</table>
+
+    </td>
+  </tr>
+
+  <!-- Bottom Sections -->
+  <tr>
+    <td width="33%" valign="top">
+
+<h2 align="center">What I Like Building</h2>
 
 - Web Applications
 - API-based Applications
@@ -88,21 +148,33 @@ I'm currently developing my skills across **frontend development, backend develo
 - Full-Stack Systems
 - Developer Tools
 
-</td>
+    </td>
 
-<td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-## Contribution Streak
+<h2 align="center">Contribution Streak</h2>
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
     width="100%"
   />
 </p>
 
-</td>
-</tr>
+    </td>
+
+    <td width="33%" valign="top">
+
+<h2 align="center">Focus</h2>
+
+<p align="center">
+  Building practical projects<br>
+  Learning by doing<br>
+  Improving every day
+</p>
+
+    </td>
+  </tr>
 </table>
 
 ---
