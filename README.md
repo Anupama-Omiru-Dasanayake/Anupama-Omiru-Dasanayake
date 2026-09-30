@@ -74,22 +74,6 @@ I'm currently developing my skills across **frontend development, backend develo
 
 ---
 
-## Development Goals
-
-- [ ] Master React
-- [ ] Build full-stack applications
-- [ ] Improve Java OOP skills
-- [ ] Strengthen Data Structures & Algorithms
-- [ ] Learn Node.js deeply
-- [ ] Learn MongoDB deeply
-- [ ] Improve backend development
-- [ ] Build production-style applications
-- [ ] Deploy more projects
-- [ ] Contribute to open-source projects
-- [ ] Build a strong software engineering portfolio
-
----
-
 ## What I Like Building
 
 
@@ -130,10 +114,7 @@ I'm currently developing my skills across **frontend development, backend develo
 
 ## My Development Philosophy
 
-> **Learn → Build → Break → Debug → Improve → Repeat.**
-
 I believe the best way to learn software development is by building real projects, solving problems, understanding mistakes, and continuously improving.
-
 
 <p align="center">
 
