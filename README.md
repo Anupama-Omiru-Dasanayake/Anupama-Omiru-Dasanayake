@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Anupama Omiru Dasanayake
+# Hi, I'm Anupama Omiru Dasanayake
 
-### 💻 Computer Science Undergraduate | Full-Stack Developer in Progress
+### Computer Science Undergraduate | Full-Stack Developer in Progress
 
 I'm a Computer Science undergraduate at the **University of Westminster**, passionate about software development, web technologies, problem-solving, and building real-world applications.
 
@@ -83,16 +83,6 @@ I'm currently developing my skills across **frontend development, backend develo
 - Algorithms
 - File I/O
 
-### Web Development
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- REST APIs
-- Responsive Web Design
-
 ### Databases
 
 - SQL
@@ -141,7 +131,7 @@ I'm currently developing my skills across **frontend development, backend develo
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 
