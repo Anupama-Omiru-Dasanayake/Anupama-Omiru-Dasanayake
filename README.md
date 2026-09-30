@@ -1,4 +1,4 @@
-# Hi, I'm Anupama Omiru Dasanayake
+<h1 align="center"> Anupama Omiru Dasanayake </h1>
 
 ### Computer Science Undergraduate | Full-Stack Developer in Progress
 
