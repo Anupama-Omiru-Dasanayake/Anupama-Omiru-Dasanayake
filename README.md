@@ -1,7 +1,7 @@
 <h1 align="center">Anupama Omiru Dasanayake</h1>
 
 <p align="center">
-  <sub> Computer Science Undergraduate | Aspiring Software Engineer | Problem Solver | Exploring Full-Stack Development | Web Development Enthusiast </sub>
+  <sub> Computer Science Undergraduate @ University of Westminster | Aspiring Software Engineer </sub>
 </p>
 
 <p align="center">
