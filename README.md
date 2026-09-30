@@ -163,18 +163,6 @@ I'm currently developing my skills across **frontend development, backend develo
 
 I believe the best way to learn software development is by building real projects, solving problems, understanding mistakes, and continuously improving.
 
----
-
-## Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Anupama-Omiru-Dasanayake/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
 
 <p align="center">
 
