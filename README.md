@@ -33,7 +33,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 <h1 align="center">Tech Stack</h1>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <th width="25%" align="center">Programming Languages</th>
 <th width="25%" align="center">Frontend</th>
@@ -129,7 +129,7 @@ width="100%"
 
 <h2 align="center">Currently Learning</h2>
 
-<table width="100%">
+<table width="100%" align="center">
 
 <tr>
 <th width="25%" align="center">React</th>
