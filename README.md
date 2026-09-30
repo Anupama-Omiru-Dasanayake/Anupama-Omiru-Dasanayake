@@ -1,6 +1,10 @@
 <h1 align="center"> Anupama Omiru Dasanayake </h1>
 
-### Computer Science Undergraduate | Full-Stack Developer in Progress
+<p align="center"> anupama.omiru.d@gmail.com | <a href="https://github.com/Anupama-Omiru-Dasanayake">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a> | <a href="https://www.linkedin.com/in/anupama-omiru/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 I'm a Computer Science undergraduate at the **University of Westminster**, passionate about software development, web technologies, problem-solving, and building real-world applications.
 
@@ -178,13 +182,7 @@ I'm currently developing my skills across **frontend development, backend develo
 
 <p align="left">
 
-<a href="https://github.com/Anupama-Omiru-Dasanayake">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/anupama-omiru/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 </p>
 
