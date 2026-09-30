@@ -25,7 +25,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 --- 
 
-<table width="100%">
+<table width="100%" align="center">
 
 <!-- ==================== TECH STACK ==================== -->
 <tr>
@@ -84,7 +84,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 </tr>
 </table>
 
-</br></br>
+</br>
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ width="100%"
 <tr>
 <td colspan="2">
 
-<h2 align="center">Currently Learning</h2>
+<h1 align="center">Currently Learning</h1>
 
 <table width="100%" align="center">
 
