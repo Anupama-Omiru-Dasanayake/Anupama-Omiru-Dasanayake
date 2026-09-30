@@ -184,13 +184,3 @@
 </tr>
 </table>
 
-## Connect With Me
-
-<p align="left">
-
-
-
-</p>
-
----
-Make this look more clean 
