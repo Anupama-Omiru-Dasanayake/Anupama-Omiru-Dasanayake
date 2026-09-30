@@ -60,7 +60,7 @@ I'm currently developing my skills across **frontend development, backend develo
 ## Currently Learning
 
 | **React** | **Java** | **Databases** |
-|:----------|:---------|:--------------|
+|:---------:|:------:|:----------:|
 | Components | Object-Oriented Programming | SQL |
 | Props | Classes & Objects | Database Design |
 | State | Inheritance | MySQL |
