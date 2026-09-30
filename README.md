@@ -1,4 +1,4 @@
-<h3 align="center">Anupama Omiru Dasanayake </h3>
+<h1 align="center">Anupama Omiru Dasanayake </h1>
 
 <p align="center">
   <sub> Computer Science Undergraduate | Aspiring Software Engineer </sub>
@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center"> About Me </h2>
+<h2 > About Me </h2>
 
 I'm a Computer Science undergraduate at the **University of Westminster** with a strong interest in **Full-Stack Web Development** and building practical software solutions. I'm currently focusing on **React and modern JavaScript**, while developing my skills in **Java and Object-Oriented Programming** and working with **Python**. I'm also learning **SQL, Database Design, and MongoDB**, and building applications that integrate **REST APIs**. I use **Git and GitHub** for version control and continuously improve my understanding of **Data Structures and Algorithms** through hands-on projects.
 
