@@ -91,6 +91,35 @@
 
 <table width="100%">
 <tr>
+<td width="50%" valign="top">
+
+<h2 align="center">What I Like Building</h2>
+
+- Web Applications
+- API-based Applications
+- Database Applications
+- Intelligent Applications
+- Data-driven Applications
+- Full-Stack Systems
+- Developer Tools
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
+    width="100%"
+  />
+</p>
+
+</td>
+</tr>
+  
+<tr>
 <th align="center">React</th>
 <th align="center">Java</th>
 <th align="center">Databases</th>
@@ -172,33 +201,6 @@
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
 
-<h2 align="center">What I Like Building</h2>
-
-- Web Applications
-- API-based Applications
-- Database Applications
-- Intelligent Applications
-- Data-driven Applications
-- Full-Stack Systems
-- Developer Tools
-
-</td>
-
-<td width="50%" valign="top">
-
-<h2 align="center">Contribution Streak</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Anupama-Omiru-Dasanayake&theme=tokyonight&hide_border=true"
-    width="100%"
-  />
-</p>
-
-</td>
-</tr>
 </table>
 
