@@ -32,7 +32,7 @@
 - Building projects to strengthen my software development skills
 
 ---
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
 <tr>
@@ -119,7 +119,7 @@
 
 <h2 align="center">Currently Learning</h2>
 
-<table width="100%">
+<table width="100%" align="center">
 
   
 <tr>
