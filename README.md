@@ -59,18 +59,18 @@ I'm currently developing my skills across **frontend development, backend develo
 
 ## Currently Learning
 
-| ### React  |        ### Java     |  ### Databases         
-
-|- Components |  - Object-Oriented Programming   |     - SQL           
-|- Props | - Classes & Objects | - Database Design
-|- State | - Inheritance  |    - MySQL                 
-|- Hooks | - Polymorphism  |  - MongoDB
-|- API Integration |  - Encapsulation  |   - NoSQL   
-|- Component Architecture |   - Abstraction  |   
-|- Routing |- Collections  |
-|- Advanced React Patterns |    - Data Structures  |
-|   |- Algorithms |
-|   |  - File I/O  |
+| **React** | **Java** | **Databases** |
+|:----------|:---------|:--------------|
+| Components | Object-Oriented Programming | SQL |
+| Props | Classes & Objects | Database Design |
+| State | Inheritance | MySQL |
+| Hooks | Polymorphism | MongoDB |
+| API Integration | Encapsulation | NoSQL |
+| Component Architecture | Abstraction | |
+| Routing | Collections | |
+| Advanced React Patterns | Data Structures | |
+| | Algorithms | |
+| | File I/O | |
 
 ---
 
