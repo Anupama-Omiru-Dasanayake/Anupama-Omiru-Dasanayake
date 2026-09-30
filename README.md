@@ -85,12 +85,6 @@
 
 <table>
 <tr>
-<td colspan="2">
-
-<h2 align="center">Currently Learning</h2>
-
-<table width="100%">
-<tr>
 <td width="50%" valign="top">
 
 <h2 align="center">What I Like Building</h2>
@@ -118,6 +112,15 @@
 
 </td>
 </tr>
+
+  
+<tr>
+<td colspan="2">
+
+<h2 align="center">Currently Learning</h2>
+
+<table width="100%">
+
   
 <tr>
 <th align="center">React</th>
