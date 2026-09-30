@@ -1,5 +1,5 @@
-<h1 align="center"> Anupama Omiru Dasanayake </h1>
-<p align="center">Computer Science Undergraduate @ University of Westminster </p>
+#<h1 align="center"> Anupama Omiru Dasanayake </h1>
+#<p align="center">Computer Science Undergraduate @ University of Westminster </p>
 
 ---
 <p align="center"> <a href="mailto:anupama.omiru.d@gmail.com">
