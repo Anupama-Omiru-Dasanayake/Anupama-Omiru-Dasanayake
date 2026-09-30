@@ -32,18 +32,18 @@
 - Building projects to strengthen my software development skills
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
-<th align="center">💻 Programming Languages</th>
-<th align="center">🎨 Frontend</th>
-<th align="center">⚙️ Backend & Databases</th>
-<th align="center">🧰 Tools & Platforms</th>
+<th align="center">Programming Languages</th>
+<th align="center">Frontend</th>
+<th align="center">Backend & Databases</th>
+<th align="center">Tools & Platforms</th>
 </tr>
 
 <tr>
-<td align="center">
+<td >
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
@@ -52,7 +52,7 @@
 
 </td>
 
-<td align="center">
+<td >
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
@@ -62,7 +62,7 @@
 
 </td>
 
-<td align="center">
+<td >
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br>
@@ -71,7 +71,7 @@
 
 </td>
 
-<td align="center">
+<td>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br>
