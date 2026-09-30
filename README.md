@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><font size="6">Anupama Omiru Dasanayake</font></strong>
+  <strong><font size="20">Anupama Omiru Dasanayake</font></strong>
 </p>
 <p>
   <sub> Computer Science Undergraduate | Aspiring Software Engineer </sub>
