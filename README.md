@@ -34,7 +34,7 @@
 ---
 ## Tech Stack
 
-<table>
+<table align="center">
 <tr>
 <th align="center">Programming Languages</th>
 <th align="center">Frontend</th>
