@@ -25,7 +25,7 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 
 --- 
 
-Use explicit widths:
+<h1 align="center">Tech Stack</h1>
 
 <table width="100%">
 <tr>
