@@ -87,7 +87,8 @@ I'm a Computer Science undergraduate at the **University of Westminster** with a
 </td>
 </tr>
 
----
+<br>
+
 <!-- ==================== BUILDING + STREAK ==================== -->
 <tr>
 
