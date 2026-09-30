@@ -55,11 +55,9 @@ I'm currently developing my skills across **frontend development, backend develo
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 <table>
-  <!-- Currently Learning -->
-  <tr>
-    <td colspan="3">
+<tr>
+<td colspan="2">
 
 <h2 align="center">Currently Learning</h2>
 
@@ -69,61 +67,51 @@ I'm currently developing my skills across **frontend development, backend develo
 <th align="center">Java</th>
 <th align="center">Databases</th>
 </tr>
-
 <tr>
 <td>Components</td>
 <td>Object-Oriented Programming</td>
 <td>SQL</td>
 </tr>
-
 <tr>
 <td>Props</td>
 <td>Classes & Objects</td>
 <td>Database Design</td>
 </tr>
-
 <tr>
 <td>State</td>
 <td>Inheritance</td>
 <td>MySQL</td>
 </tr>
-
 <tr>
 <td>Hooks</td>
 <td>Polymorphism</td>
 <td>MongoDB</td>
 </tr>
-
 <tr>
 <td>API Integration</td>
 <td>Encapsulation</td>
 <td>NoSQL</td>
 </tr>
-
 <tr>
 <td>Component Architecture</td>
 <td>Abstraction</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Routing</td>
 <td>Collections</td>
 <td></td>
 </tr>
-
 <tr>
 <td>Advanced React Patterns</td>
 <td>Data Structures</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>Algorithms</td>
 <td></td>
 </tr>
-
 <tr>
 <td></td>
 <td>File I/O</td>
@@ -131,12 +119,11 @@ I'm currently developing my skills across **frontend development, backend develo
 </tr>
 </table>
 
-    </td>
-  </tr>
+</td>
+</tr>
 
-  <!-- Bottom Sections -->
-  <tr>
-    <td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 <h2 align="center">What I Like Building</h2>
 
@@ -148,9 +135,9 @@ I'm currently developing my skills across **frontend development, backend develo
 - Full-Stack Systems
 - Developer Tools
 
-    </td>
+</td>
 
-    <td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h2 align="center">Contribution Streak</h2>
 
@@ -161,23 +148,9 @@ I'm currently developing my skills across **frontend development, backend develo
   />
 </p>
 
-    </td>
-
-    <td width="33%" valign="top">
-
-<h2 align="center">Focus</h2>
-
-<p align="center">
-  Building practical projects<br>
-  Learning by doing<br>
-  Improving every day
-</p>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
----
 
 ## Connect With Me
 
