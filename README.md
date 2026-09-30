@@ -10,10 +10,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> </p>
 ---
+<p>
 I'm a Computer Science undergraduate at the **University of Westminster**, passionate about software development, web technologies, problem-solving, and building real-world applications.
 
 I'm currently developing my skills across **frontend development, backend development, databases, APIs, Java, Python, and modern web technologies**.
-
+</p>
 ---
 
 ## About Me
